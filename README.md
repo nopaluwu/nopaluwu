@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nopaluwu?tab=repositories](https://github.com/nopaluwu?tab=repositories)
 
-- 📝 I regularly write articles on [https://blog.bangnopal.com](https://blog.bangnopal.com)
+- 📝 I regularly write articles on [https://bangnopal.com](https://bangnopal.com)
 
 - 💬 Ask me about **Laravel, JavaScript, and PHP?**
 
